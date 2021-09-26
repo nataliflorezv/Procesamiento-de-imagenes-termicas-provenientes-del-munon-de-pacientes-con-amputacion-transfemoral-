@@ -1,18 +1,13 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<p align="center"><a href= target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.udea.edu.co%2Fwps%2Fportal%2Fudea%2Fweb%2Finicio%2Fsomos-udea%2Fempleados%2Fgestion-organizacion%2Fbanco-recursos-multimedia%2F!ut%2Fp%2Fz0%2F04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi_QJNXQ2NnA18DMyDnA0CA0OC3J1CjIy93Y31C7IdFQF8JLKc%2F%3F1dmy%26urile%3Dwcm%253Apath%253A%2FPortalUdeA%2FasPortalUdeA%2FasHomeUdeA%2FasSomosUdeA%2Fempleados%2FGesti%2521c3%2521b3n%2By%2Borganizaci%2521c3%2521b3n%2FBanco%2Bde%2Brecursos%2Bmultimedia%2FContenido%2FasMenuLateral%2Flogosimbolo-udea&psig=AOvVaw297pKHiZIGYjvn24bXva9r&ust=1632710954155000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjwobTQm_MCFQAAAAAdAAAAABAD"></a></p>
 # Procesamiento de imágenes térmicas provenientes del muñón de pacientes con amputación transfemoral para identificar áreas de interés
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
 
+# Elaborado por
 Laura Natalí Flórez Valencia
 Manuela Rendón Ochoa
 Paula Andrea Zuluaga Gómez
 Programa de Bioingeniería, Universidad de Antioquia
 
-
+# Resumen
 Con el fin de mejorar la calidad de vida de personas con algún tipo de amputación, se han buscado
 diferentes alternativas para la rehabilitación de estos pacientes, las cuales corresponden
 principalmente a la implementación de terapias físicas y la sustitución del miembro mutilado por
